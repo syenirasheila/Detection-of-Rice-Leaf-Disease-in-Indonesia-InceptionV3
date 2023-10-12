@@ -6,7 +6,7 @@ This project aims to detect diseases on the rice leaf using the Convolutional Ne
 
 The dataset was obtained from the Kaggle dataset repository site in .csv format uploaded by Tedi Setiadi and can be accessed through the `Penyakit_Daun_Padi_Indonesia` folder or the following [Link](https://www.kaggle.com/datasets/tedisetiady/leaf-rice-disease-indonesia). The dataset is an image of rice plant leaves taken from fields in the Southeast Sulawesi area, Indonesia. The dataset consists of 240 image data of infected rice leaves and is divided into 3 classes based on the type of rice leaf disease, namely blast, leaf blight and tungro with each class consisting of 80 image data.
 
-For a more detailed explanation please refer to the paper attached to this repository `Published Deteksi Penyakit pada Daun Padi Berbasis Pengolahan Citra Menggunakan Metode Convolutional Neural Network (CNN)_ce-sheila-27-34.pdf` or through this [Link](https://jurnal.pnj.ac.id/index.php/multinetics/article/view/5255/2891).
+For a more detailed explanation please refer to the paper that you can access through this [Link](https://jurnal.pnj.ac.id/index.php/multinetics/article/view/5255/2891).
 
 ## 🚀 Built With
 
